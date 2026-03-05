@@ -4,4 +4,5 @@
 系級：科技系二年級<br/>
 ##  課程筆記區<br/>
 ##  作業連結區<br/>
+https://colab.research.google.com/drive/17xPR1Tr4bFGFErikQxH799qY493pH2X4#scrollTo=hnSEAvySXVws
 ##  專題連結區<br/>
