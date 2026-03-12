@@ -6,4 +6,6 @@
 ##  作業連結區<br/>
 ### HW1<br/>
 https://colab.research.google.com/drive/17xPR1Tr4bFGFErikQxH799qY493pH2X4#scrollTo=hnSEAvySXVws
+### HW2<br/>
+https://colab.research.google.com/drive/1ZBWOE-ESrhsM-3hZYtsIKiNA5mLy4e1G#scrollTo=qOTsBFoQDBci
 ##  專題連結區<br/>
