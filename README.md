@@ -6,6 +6,10 @@
 ##  作業連結區<br/>
 ### HW1<br/>
 https://colab.research.google.com/drive/17xPR1Tr4bFGFErikQxH799qY493pH2X4#scrollTo=hnSEAvySXVws
-### HW2<br/>
 https://colab.research.google.com/drive/1ZBWOE-ESrhsM-3hZYtsIKiNA5mLy4e1G#scrollTo=qOTsBFoQDBci
+### HW2<br/>
+https://colab.research.google.com/drive/1kaG_Bne6u87l2qVb8gc3nVCOon4dOZrq#scrollTo=9f9fcf48
+錄影紀錄:
+https://www.youtube.com/watch?v=kZjKPyUaV4A
+https://www.youtube.com/watch?v=OVRYnDbzxLY&t=490s
 ##  專題連結區<br/>
