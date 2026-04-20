@@ -14,5 +14,5 @@ https://colab.research.google.com/drive/1kaG_Bne6u87l2qVb8gc3nVCOon4dOZrq#scroll
 錄影紀錄:<br/>
 https://www.youtube.com/watch?v=kZjKPyUaV4A
 
-https://www.youtube.com/watch?v=OVRYnDbzxLY&t=490s
+https://www.youtube.com/watch?v=OVRYnDbzxLY
 ##  專題連結區<br/>
