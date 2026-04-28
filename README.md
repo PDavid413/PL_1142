@@ -15,4 +15,7 @@ https://colab.research.google.com/drive/1kaG_Bne6u87l2qVb8gc3nVCOon4dOZrq#scroll
 https://www.youtube.com/watch?v=kZjKPyUaV4A
 
 https://www.youtube.com/watch?v=OVRYnDbzxLY
+
+### HW3<br/>
+https://colab.research.google.com/drive/1I4SojsyDxS46Fl7RNDpMuRC4cuB_ptTC#scrollTo=Niq4EB1Ui-Pk
 ##  專題連結區<br/>
